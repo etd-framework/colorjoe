@@ -1,0 +1,10 @@
+{
+  "name": "etdsolutions/colorjoe",
+  "description": "Scaleable color picker with touch and AMD support (MIT)",
+  "authors": [
+    {
+      "name": "Juho Vepsalainen"
+    }
+  ],
+  "license": "MIT"
+}
